@@ -1,0 +1,8 @@
+oneway_btn: //android.support.v7.app.ActionBar.Tab[@content-desc="One Way"]
+roundtrip_btn: //android.widget.TextView[@text="ROUND TRIP"]
+economycls_btn: //android.widget.TextView[@resource-id="android:id/text1" and @text="Economy"]
+businesscls_btn: //android.widget.TextView[@resource-id="android:id/text1" and @text="Business"]
+firstcls_btn: //android.widget.TextView[@resource-id="android:id/text1" and @text="First"]
+cheapesttiket_btn: //android.widget.Button[@resource-id="com.example.myapplication:id/price4"]
+standardtiket_btn: //android.widget.Button[@resource-id="com.example.myapplication:id/price5"]
+expensivetiket_btn: //android.widget.Button[@resource-id="com.example.myapplication:id/price9"]
