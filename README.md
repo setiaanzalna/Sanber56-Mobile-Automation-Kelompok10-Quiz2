@@ -6,3 +6,9 @@ Nama Kelompok
 - Sahrul Juliansyah
 - Syasya Sazwana Z
 - Esther Joan
+
+Pengerjaan Mobile Automation Test
+
+- Login Test (Setia)
+- Booking Test (Setia)
+- Search Test (Setia)
