@@ -13,4 +13,6 @@ Pengerjaan Mobile Automation Test
 - Booking Test (Setia)
 - Search Test (Setia)
 
-Link Record Video
+Link Record Video:
+
+- https://drive.google.com/file/d/1Ujku3Y4229N8inji5FtTpUy-dzYbC49-/view?usp=sharing
