@@ -13,3 +13,7 @@ Verify Success Login
 
 Click Booking Menu After Login
     Click Element                    locator=//android.widget.Button[@resource-id="com.example.myapplication:id/book"]
+
+Click Search Menu After Login
+    Wait Until Element Is Visible    locator=//android.widget.Button[@resource-id="com.example.myapplication:id/search_flight"]
+    Click Element                    locator=//android.widget.Button[@resource-id="com.example.myapplication:id/search_flight"]

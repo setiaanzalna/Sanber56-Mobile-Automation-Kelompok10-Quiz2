@@ -26,3 +26,13 @@ Login To Test Booking Menu
     Click Sign In Button On Login Screen
     Verify Success Login
     Click Booking Menu After Login
+
+Login To Test Search Menu
+    [Arguments]    ${username}    ${password}
+    Verify Home Screen Appears
+    Click Sign In Button On Home Screen
+    Input Username    support@ngendigital.com
+    Input User Password    abc123
+    Click Sign In Button On Login Screen
+    Verify Success Login
+    Click Search Menu After Login
